@@ -5,6 +5,7 @@
 
 	
 	//balava 88
+	//ejejejej ejjejeje jejjeje
     templateEngine.addTemplate = function (templateName, templateMarkup) {
         document.write("<script type='text/html' id='" + templateName + "'>" + templateMarkup + "<" + "/script>");
     };
